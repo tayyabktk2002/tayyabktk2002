@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>• Full-stack web applications using Next.js, React, Node.js & MongoDB  <br>• Real-world client projects and production-ready systems  <br><br>👯 I’m looking to collaborate on  <br>• Open-source projects  <br>• MERN / MEVN stack applications  <br>• Frontend-heavy projects with modern UI/UX  <br><br>🤝 I’m looking for help with  <br>• Advanced system design  <br>• Cloud deployment & DevOps best practices  <br><br>🌱 I’m currently learning  <br>• Angular  <br>• Advanced Cyber Security concepts  <br>• Docker & scalable backend architectures  <br><br>💬 Ask me about  <br>• React, Next.js, Vue.js  <br>• REST APIs & backend integration  <br>• Performance optimization & clean code practices  <br><br>⚡ Fun fact  <br>• I enjoy turning complex problems into simple, elegant solutions 🚀<br>
+🔭 I’m currently working on  <br>• Full-stack web applications using Next.js, React, Node.js & MongoDB/MySQL  <br>• Real-world client projects and production-ready systems  <br><br>👯 I’m looking to collaborate on  <br>• Open-source projects  <br>• MERN / MEAN stack applications  <br>• Frontend-heavy projects with modern UI/UX  <br><br>🤝 I’m looking for help with  <br>• Advanced system design  <br>• Cloud deployment & DevOps best practices  <br><br>🌱 I’m currently learning  <br>• Angular  <br>• Advanced Cyber Security concepts  <br>• Docker & scalable backend architectures  <br><br>💬 Ask me about  <br>• React, Next.js, Vue.js  <br>• REST APIs & backend integration  <br>• Performance optimization & clean code practices  <br><br>⚡ Fun fact  <br>• I enjoy turning complex problems into simple, elegant solutions 🚀<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=tayyabktk2002&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tayyabktk2002&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabktk2002&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tayyabktk2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
